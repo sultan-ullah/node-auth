@@ -1,0 +1,23 @@
+{
+  "name": "tcp-chat",
+  "version": "1.0.0",
+  "description": "Authorization with Node JS",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sultan-ullah/node-tcp-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sultan-ullah/node-tcp-chat/issues"
+  },
+  "homepage": "https://github.com/sultan-ullah/node-tcp-chat#readme",
+  "dependencies": {
+    "node-emoji": "^1.10.0"
+  }
+}
